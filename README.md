@@ -40,3 +40,6 @@ python manage.py migrate
 
 # 4. Seed data
 python seed_data.py
+
+
+# small change for PR demo

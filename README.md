@@ -42,4 +42,4 @@ python manage.py migrate
 python seed_data.py
 
 
-# small change for PR demo
+# small change for PR demo for project
